@@ -1,13 +1,47 @@
 {
 	"contracts": [{
-			"symbol": "T10X",
-			"tokenAddress": "KT1M2JnD1wsg7w2B4UXJXtKQPuDUpU2L7cJH",
-			"tokenId": 79,
-			"tags": "Meme",
-			"websiteLink": "https://www.tezos10x.win/",
-			"telegramLink": "https://t.me/Tezos10x",
-			"twitterLink": "",
-			"discordLink": ""
+			"symbol": "GIF",
+			"tokenAddress": "KT1XTxpQvo7oRCqp85LikEZgAZ22uDxhbWJv",
+			"websiteLink": "https://gif.games/",
+			"telegramLink": "https://t.me/gifgames",
+			"twitterLink": "https://twitter.com/gifdotgames",
+			"discordLink": "https://discord.gg/UJK5Tyga"
+		},
+		{
+			"symbol": "UNO",
+			"tokenAddress": "KT1ErKVqEhG9jxXgUG2KGLW3bNM7zXHX8SDF",
+			"tokenId": 0,
+			"websiteLink": "https://tezotop.io/",
+			"telegramLink": "https://t.me/gifgames",
+			"twitterLink": "https://twitter.com/gifdotgames",
+			"discordLink": "https://discord.gg/UJK5Tyga"
+		},
+		{
+			"symbol": "MCH",
+			"tokenAddress": "KT1ErKVqEhG9jxXgUG2KGLW3bNM7zXHX8SDF",
+			"tokenId": 3,
+			"websiteLink": "https://tezotop.io/",
+			"telegramLink": "https://t.me/gifgames",
+			"twitterLink": "https://twitter.com/gifdotgames",
+			"discordLink": "https://discord.gg/UJK5Tyga"
+		},
+		{
+			"symbol": "MIN",
+			"tokenAddress": "KT1ErKVqEhG9jxXgUG2KGLW3bNM7zXHX8SDF",
+			"tokenId": 1,
+			"websiteLink": "https://tezotop.io/",
+			"telegramLink": "https://t.me/gifgames",
+			"twitterLink": "https://twitter.com/gifdotgames",
+			"discordLink": "https://discord.gg/UJK5Tyga"
+		},
+		{
+			"symbol": "ENR",
+			"tokenAddress": "KT1ErKVqEhG9jxXgUG2KGLW3bNM7zXHX8SDF",
+			"tokenId": 2,
+			"websiteLink": "https://tezotop.io/",
+			"telegramLink": "https://t.me/gifgames",
+			"twitterLink": "https://twitter.com/gifdotgames",
+			"discordLink": "https://discord.gg/UJK5Tyga"
 		},
 		{
 			"symbol": "wXTZ",
